@@ -34,7 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		08C93CCD23269EC700B761AA /* Project 0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project 0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		08C93CCD23269EC700B761AA /* Project Alpha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Project Alpha.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		08C93CD023269EC700B761AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08C93CD223269EC700B761AA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		08C93CD523269EC700B761AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -87,7 +87,7 @@
 		08C93CCE23269EC700B761AA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				08C93CCD23269EC700B761AA /* Project 0.app */,
+				08C93CCD23269EC700B761AA /* Project Alpha.app */,
 				08C93CE123269EC800B761AA /* Project 0Tests.xctest */,
 				08C93CEC23269EC800B761AA /* Project 0UITests.xctest */,
 			);
@@ -142,7 +142,7 @@
 			);
 			name = "Project 0";
 			productName = "Project 0";
-			productReference = 08C93CCD23269EC700B761AA /* Project 0.app */;
+			productReference = 08C93CCD23269EC700B761AA /* Project Alpha.app */;
 			productType = "com.apple.product-type.application";
 		};
 		08C93CE023269EC800B761AA /* Project 0Tests */ = {
@@ -442,7 +442,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.wtlm2013.Project-0";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Project Alpha";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -459,7 +459,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.wtlm2013.Project-0";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Project Alpha";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
